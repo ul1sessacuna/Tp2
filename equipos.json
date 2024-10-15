@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "equipo": "River Plate",
+        "pais": "Argentina",
+        "imagen": "img/RiverPlate.png",
+        "url": "#",
+        "information": "El Club Atlético River Plate es un entidad polideportiva de Argentina.​ Fue fundado el 25 de mayo de 1901 en el barrio de La Boca, tras la fusión de los clubes Santa Rosa y La Rosales, y su nombre proviene de la antigua denominación que se le daba en el inglés británico al Río de la Plata."
+    },
+    {
+        "id": 2,
+        "equipo": "Estudiantes",
+        "pais": "Argentina",
+        "imagen": "img/estudiantes.png",
+        "url": "#",
+        "information": "El Club Estudiantes de La Plata es una entidad polideportiva ubicada en la La Plata, ciudad capital de la Provincia de Buenos Aires, Argentina. Fue fundado como club de fútbol el 4 de agosto de 1905 y posee alrededor de 57 000 socios."
+    },
+    {
+        "id": 3,
+        "equipo": "Argentinos Juniors",
+        "pais": "Argentina",
+        "imagen": "img/argentinos.png",
+        "url": "#",
+        "information": "La Asociación Atlética Argentinos Juniors, mayormente conocida como Argentinos Juniors o simplemente Argentinos, es una Asociación Civil sin fines de lucro polideportiva fundada el 15 de agosto de 1904 en el barrio de La Paternal, Ciudad Autónoma de Buenos Aires, Argentina."
+    },
+    {
+        "id": 4,
+        "equipo": "Atletico Tucuman",
+        "pais": "Argentina",
+        "imagen": "img/atleticoo.png",
+        "url": "#",
+        "information": "El Club Atlético Tucumán, conocido popularmente como Atlético Tucumán es un club deportivo argentino fundado en San Miguel de Tucumán, el 27 de septiembre de 1902. Tiene como actividad principal el fútbol, donde juega en la Liga Profesional."
+    },
+    {
+        "id": 5,
+        "equipo": "Banfield",
+        "pais": "Argentina",
+        "imagen": "img/banfield.png",
+        "url": "#",
+        "information": "El Club Atlético Banfield es un club de fútbol de Argentina, con sede en la localidad de Banfield, provincia de Buenos Aires. Fue fundado el 21 de enero de 1896 por habitantes de esa ciudad, mayoritariamente de orígenes británicos."
+    },
+    {
+        "id": 6,
+        "equipo": "Barracas Central",
+        "pais": "Argentina",
+        "imagen": "img/barracas.png",
+        "url": "#",
+        "information": "El Club Atlético Barracas Central es un club de fútbol de Buenos Aires, Argentina. Fue fundado el 5 de abril de 1904​​ en el barrio de Barracas de Buenos Aires. Actualmente milita en la Primera División de Argentina, en la que juega desde su ascenso en 2021"
+    },
+    {
+        "id": 7,
+        "equipo": "Belgrano",
+        "pais": "Argentina",
+        "imagen": "img/belgrano.png",
+        "url": "#",
+        "information": "El Club Atlético Belgrano es un club deportivo de la ciudad de Córdoba en Argentina. Fue fundado oficialmente un lunes 19 de marzo de 19054​ por un grupo de niños y una mujer adulta, los niños eran los cinco hermanos Lascano (Esteban, Balbino, Nicolás, José y Ricardo), Telmo Baigorria, Ernesto Barabraham, Nicolás Flores, Ramón Quiroga y Arturo Orgaz, entre otros.5​ La adulta era Rosario Soria de Lascano, quien los impulsó a crear el club, a la vez que eligió el color celeste."
+    },
+    {
+        "id": 8,
+        "equipo": "Boca Juniors",
+        "pais": "Argentina",
+        "imagen": "img/boca.png",
+        "url": "#",
+        "information": "El Club Atlético Boca Juniors es el hijo esterno del CLUB ATLETICO RIVER PLATE, con sede en el barrio de La Boca, Ciudad Autónoma de Buenos Aires.​ Fue fundado el 3 de abril de 1905 por seis vecinos adolescentes hijos de italianos.​"
+    },
+    {
+        "id": 9,
+        "equipo": "Rosario Central",
+        "pais": "Argentina",
+        "imagen": "img/central.png",
+        "url": "#",
+        "information": "El Club Atlético Rosario Central conocido popularmente como Central o como Rosario, es una entidad deportiva argentina de la ciudad de Rosario, ​ en la provincia de Santa Fe, en el que participa de la Primera División de Argentina."
+    },
+    {
+        "id": 10,
+        "equipo": "Central Cordoba",
+        "pais": "Argentina",
+        "imagen": "img/centralcordoba.png",
+        "url": "#",
+        "information": "El Club Atlético Central Córdoba, simplemente conocido como Central Córdoba, es un club de la ciudad de Santiago del Estero, Argentina. Fue fundado el 3 de junio de 1919 y está afiliado a la Liga Santiagueña de Fútbol​. Actualmente participa en la Liga Profesional, primera división del fútbol argentino."
+    },
+    {
+        "id": 11,
+        "equipo": "Defensa y Justicia",
+        "pais": "Argentina",
+        "imagen": "img/defensayjustucia.png",
+        "url": "#",
+        "information": "El Club Social y Deportivo Defensa y Justicia, más conocido como Defensa y Justicia o simplemente Defensa, es una entidad polideportiva de Argentina con sede en la ciudad de Florencio Varela, partido homónimo del Gran Buenos Aires."
+    },
+    {
+        "id": 12,
+        "equipo": "Gimnasia de La Plata",
+        "pais": "Argentina",
+        "imagen": "img/esgrisma.png",
+        "url": "#",
+        "information": "El Club de Gimnasia y Esgrima La Plata es un club deportivo profesional argentino con sede en la ciudad de La Plata, Provincia de Buenos Aires."
+    },
+    {
+        "id": 13,
+        "equipo": "Godoy Cruz",
+        "pais": "Argentina",
+        "imagen": "img/godoycruz.png",
+        "url": "#",
+        "information": "El Club Deportivo Godoy Cruz Antonio Tomba es una institución polideportiva de Godoy Cruz, provincia de Mendoza, Argentina."
+    },
+    {
+        "id": 14,
+        "equipo": "Huracan",
+        "pais": "Argentina",
+        "imagen": "img/huracan.png",
+        "url": "#",
+        "information": "El Club Atlético Huracán es una institución social y deportiva del barrio de Parque Patricios de la ciudad de Buenos Aires, Argentina, cuya principal actividad es el fútbol masculino, en la que su primer equipo se desempeña en la Primera División de Argentina."
+    },
+    {
+        "id": 15,
+        "equipo": "Independiente",
+        "pais": "Argentina",
+        "imagen": "img/independiente.png",
+        "url": "#",
+        "information": "El Club Atlético Independiente, o simplemente Independiente, es una entidad deportiva y educativa argentina, cuya sede y estadio están localizados en la ciudad de Avellaneda, del aglomerado del Gran Buenos Aires."
+    },
+    {
+        "id": 16,
+        "equipo": "Instituto",
+        "pais": "Argentina",
+        "imagen": "img/instituto.png",
+        "url": "#",
+        "information": "Instituto Atlético Central Córdoba, conocido mayormente como Instituto, es un club deportivo de la ciudad de Córdoba, Argentina. Fue fundado el 8 de agosto de 1918. Su equipo de fútbol masculino participa de la Primera División de Argentina.​ "
+    },
+    {
+        "id": 17,
+        "equipo": "Lanus",
+        "pais": "Argentina",
+        "imagen": "img/lanus.png",
+        "url": "#",
+        "information": "El Club Atlético Lanús es un club deportivo de Argentina. Fue fundado el 3 de enero de 1915 en la ciudad de Lanús, provincia de Buenos Aires, Argentina."
+    },
+    {
+        "id": 18,
+        "equipo": "Newell's",
+        "pais": "Argentina",
+        "imagen": "img/newells.png",
+        "url": "#",
+        "information": "El Club Atlético Newell’s Old Boys es una institución deportiva de la ciudad de Rosario, en la provincia de Santa Fe. Al año 2024 se desempeña en la Primera División de Argentina. Fue fundado el 3 de noviembre de 1903; recibió su nombre en honor a Isaac Newell, director del Colegio Comercial Anglo Argentino en 1884."
+    },
+    {
+        "id": 19,
+        "equipo": "Platense",
+        "pais": "Argentina",
+        "imagen": "img/platense.png",
+        "url": "#",
+        "information": "El Club Atlético Platense es una entidad deportiva argentina. Tiene sedes sociales y deportivas tanto en Florida, partido de Vicente López como en el barrio de Saavedra, en la Comuna 12 de la ciudad de Buenos Aires. Fue fundado el 25 de mayo de 1905 en la Ciudad Autónoma de Buenos Aires."
+    },
+    {
+        "id": 19,
+        "equipo": "Racing",
+        "pais": "Argentina",
+        "imagen": "img/racing.png",
+        "url": "#",
+        "information": "El Racing Club, conocido popularmente como la Academia es una entidad polideportiva argentina, con sede en Avellaneda, Provincia de Buenos Aires. Fue fundado como club de fútbol el 25 de marzo de 1903.​"
+    },
+    {
+        "id": 20,
+        "equipo": "Deportivo Riestra",
+        "pais": "Argentina",
+        "imagen": "img/riestra.png",
+        "url": "#",
+        "information": "El Deportivo Riestra Asociación de Fomento Barrio Colón, conocido como Deportivo Riestra, es un club deportivo y social de Buenos Aires, Argentina. Tiene su sede en el barrio de Nueva Pompeya, y posee además el estadio Guillermo Laza en el barrio de Villa Soldati, cuya capacidad aproximada es de 3000 espectadores."
+    },
+    {
+        "id": 21,
+        "equipo": "Independiente de Rivadavia",
+        "pais": "Argentina",
+        "imagen": "img/rivadavia.png",
+        "url": "#",
+        "information": "El Club Sportivo Independiente Rivadavia, conocido popularmente como «Azul del Parque», «Lepra mendocina» o por su acrónimo «CSIR», es una institución deportiva argentina de la ciudad de Mendoza, provincia homónima, cuya principal actividad es el fútbol profesional."
+    },
+    {
+        "id": 22,
+        "equipo": "San Lorenzo",
+        "pais": "Argentina",
+        "imagen": "img/sanlorenzo.png",
+        "url": "#",
+        "information": "El Club Atlético San Lorenzo de Almagro, mayormente conocido como San Lorenzo de Almagro o simplemente San Lorenzo, es una entidad deportiva de Buenos Aires, Argentina. "
+    },
+    {
+        "id": 23,
+        "equipo": "Sarmiento de Junin",
+        "pais": "Argentina",
+        "imagen": "img/sarmiento.png",
+        "url": "#",
+        "information": "El Club Atlético Sarmiento es una entidad deportiva de la ciudad de Junín, en el interior de la provincia de Buenos Aires, Argentina, fundada el 1 de abril de 1911. El fútbol masculino es su disciplina más destacada, donde juega en la Primera División, la categoría más importante del país."
+    },
+    {
+        "id": 24,
+        "equipo": "Talleres",
+        "pais": "Argentina",
+        "imagen": "img/talleres.png",
+        "url": "#",
+        "information": "El Club Atlético Talleres es una institución deportiva con sede en la ciudad de Córdoba, Argentina. Sus principales actividades son el fútbol masculino y femenino, aunque también se practican el hockey, vóley, balonmano, patín artístico, karate, futsal y básquet en la institución."
+    },
+    {
+        "id": 25,
+        "equipo": "Tigre",
+        "pais": "Argentina",
+        "imagen": "img/tigres.png",
+        "url": "#",
+        "information": "El Club Atlético Tigre es una centenaria entidad deportiva ubicada en la Zona Norte del Gran Buenos Aires, más precisamente en Victoria, partido de San Fernando, Buenos Aires, Argentina."
+    },
+    {
+        "id": 26,
+        "equipo": "Union",
+        "pais": "Argentina",
+        "imagen": "img/union.png",
+        "url": "#",
+        "information": "ciudad de Santa Fe, Argentina, fundada el 15 de abril de 1907. Su disciplina principal es el fútbol masculino profesional, donde milita actualmente en la Liga Profesional de Argentina."
+    },
+    {
+        "id": 27,
+        "equipo": "Velez",
+        "pais": "Argentina",
+        "imagen": "img/velez.png",
+        "url": "#",
+        "information": "El Club Atlético Vélez Sarsfield es una entidad deportiva de Argentina con sede en el barrio de Liniers, Buenos Aires. Fue fundado el 1 de enero de 1910 y su principal actividad es el fútbol masculino, cuyo primer equipo participa en la Liga Profesional Argentina."
+    },
+    {
+        "id": 28,
+        "equipo": "Quilmes",
+        "pais": "Argentina",
+        "imagen": "img/quilmes.png",
+        "url": "#",
+        "information": "El Quilmes Atlético Club es una institución deportiva argentina, de la ciudad de Quilmes, provincia de Buenos Aires. Sus principales deportes son el fútbol masculino, donde participa en la Primera Nacional, y el hockey sobre césped, siendo el primero de estos el que recibe mayor prioridad es un club ganador de 2 ligas argentina una en la era amateur, obtenido en 1912 y la otra en el profesionalismo, el Metropolitano 1978 y también ganó una copa nacional en 1908, la Copa de Honor Municipalidad de la Ciudad de Buenos Aires.."
+    },
+    {
+        "id": 29,
+        "equipo": "Club Atletico Gimnasia",
+        "pais": "Argentina",
+        "imagen": "img/gimanasia jujuy.png",
+        "url": "#",
+        "information": "El Club Atlético Gimnasia y Esgrima, conocido también como Gimnasia y Esgrima de Jujuy o Gimnasia de Jujuy, es un club de fútbol argentino que se ubica en la Provincia de Jujuy, precisamente en la ciudad de San Salvador de Jujuy. Actualmente, juega en la segunda división del fútbol de Argentina, la Primera Nacional."
+    },
+    {
+        "id": 30,
+        "equipo": "Quilmes",
+        "pais": "Argentina",
+        "imagen": "img/velez.png",
+        "url": "#",
+        "information": "El Club Atlético All Boys es una institución deportiva argentina, relacionada históricamente con Floresta, ubicada en el barrio contiguo Monte Castro de la ciudad de Buenos Aires.​ Fue fundado en Floresta el 15 de marzo de 1913 por un grupo de amigos apasionados por el fútbol."
+    },
+    {
+        "id": 31,
+        "equipo": "All Boys",
+        "pais": "Argentina",
+        "imagen": "img/allboys.png",
+        "url": "#",
+        "information": "El Club Atlético All Boys es una institución deportiva argentina, relacionada históricamente con Floresta, ubicada en el barrio contiguo Monte Castro de la ciudad de Buenos Aires.​ Fue fundado en Floresta el 15 de marzo de 1913 por un grupo de amigos apasionados por el fútbol."
+    },
+    {
+        "id": 32,
+        "equipo": "Ferro",
+        "pais": "Argentina",
+        "imagen": "img/ferro.png",
+        "url": "#",
+        "information": "El Club Ferro Carril Oeste es un club con sede en la Ciudad de Buenos Aires, Argentina. Fue fundado el 28 de julio de 1904 por 95 empleados de la compañía Ferrocarril del Oeste con el nombre de Club Ferro Carril Oeste de Buenos Aires."
+    },
+    {
+        "id": 33,
+        "equipo": "Agropecuario",
+        "pais": "Argentina",
+        "imagen": "img/agropecuario.png",
+        "url": "#",
+        "information": "El Club Agropecuario Argentino, simplificado como Agropecuario, es un club social y deportivo ubicado en la ciudad de Carlos Casares, ciudad ubicada en el interior de la Provincia de Buenos Aires, Argentina. "
+    },
+    {
+        "id": 34,
+        "equipo": "Racing (C)",
+        "pais": "Argentina",
+        "imagen": "img/racingcordoba.png",
+        "url": "#",
+        "information": "El Club Atlético Racing, conocido generalmente como Racing de Córdoba o Racing de Nueva Italia, es una entidad deportiva argentina de la ciudad de Córdoba. Fue fundado el 14 de diciembre de 1924 y su actividad principal es el fútbol profesional."
+    },
+    {
+        "id": 35,
+        "equipo": "Deportivo Maipu",
+        "pais": "Argentina",
+        "imagen": "img/maipu.png",
+        "url": "#",
+        "information": "El Club Deportivo Maipú es un club deportivo de la ciudad de Maipú, provincia de Mendoza, Argentina. Su disciplina más destacada el fútbol profesional. Actualmente milita en la Primera Nacional.​Participó de las primeras seis ediciones de la Primera B Nacional desde la 1986-87 a la 1991-92.​"
+    },
+    {
+        "id": 36,
+        "equipo": "Chacarita",
+        "pais": "Argentina",
+        "imagen": "img/chacarita.png",
+        "url": "#",
+        "information": "El Club Atlético Chacarita Juniors es un club deportivo ubicado en la Ciudad de Buenos Aires. Su sede social principal y asentamiento legal se encuentra en Teodoro García 3550, en el barrio de Chacarita, Comuna 15, Ciudad Autónoma de Buenos Aires."
+    },
+    {
+        "id": 37,
+        "equipo": "Patronato",
+        "pais": "Argentina",
+        "imagen": "img/patronato.png",
+        "url": "#",
+        "information": "El Club Atlético Patronato de la Juventud Católica, conocido simplemente como Patronato, es una institución deportiva Argentina, de la ciudad de Paraná, Entre Ríos, fundada el 1 de febrero de 1914."
+    },
+    {
+        "id": 38,
+        "equipo": "Arsenal",
+        "pais": "Argentina",
+        "imagen": "img/arsenal.png",
+        "url": "#",
+        "information": "Arsenal Fútbol Club, conocido simplemente como Arsenal, es un club de fútbol argentino que pertenece a la ciudad de Sarandí, en el partido de Avellaneda, provincia de Buenos Aires, fundado el 11 de enero de 1957. Actualmente se desempeña en la Primera Nacional, segunda división del fútbol argentino. "
+    },
+    {
+        "id": 39,
+        "equipo": "Alvarado",
+        "pais": "Argentina",
+        "imagen": "img/alvarado.png",
+        "url": "#",
+        "information": "El Club Atlético Alvarado es una entidad deportiva de la ciudad de Mar del Plata, Provincia de Buenos Aires, Argentina. Fundado el 21 de junio de 1928, se destaca en fútbol, donde actualmente participa en la Primera Nacional."
+    }
+]

@@ -1,0 +1,99 @@
+
+/* body{
+    background-image: url('img/fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.card {
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    transition: all .5s ease-in-out;
+    box-shadow: -1px 2px 8px 0px rgba(0,0,0,0.36)
+}
+.card:hover{
+    transform: scale(1.02);
+}
+
+
+.card img {
+    min-height: 200px;
+    height: 200px;
+    object-fit:cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card a {
+    background-color: #6f00ff;
+    border: none;
+}
+
+#buscar {
+    width: 30vw;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 10px;
+
+}
+
+#contenedor_cards{
+    text-align: center;
+}
+
+.container_info img{
+    width: 200px;
+}
+
+.container_info {
+    display: flex;
+  }
+
+  .column {
+    width: 50%;
+    padding: 20px;
+  }
+
+ 
+  .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid rgb(219, 219, 219);
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+ .container h1{
+    font-size: 40px;
+  }
+
+
+
+  @media only screen and (max-width: 768px) {
+   .container h1{
+    font-size: 20px;
+   }
+  
+   #buscar {
+    width: 200px; 
+    padding: 5px; 
+    font-size: 14px; 
+    margin-right: 20px;
+  }
+
+  }
+ 
+
